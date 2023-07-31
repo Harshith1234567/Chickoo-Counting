@@ -2,7 +2,7 @@
 
 - I have developed a model for detecting chickoo fruit using MobileNet pretrained model
 - First, I collected chickoo fruit and labled the image using lxml
-- Then I trained the data on ssd_mobilenet_v2_fpnlite_640x640_coco17_tpu-8 pretrained model
+- Then I trained the data on [ssd_mobilenet_v2_fpnlite_640x640_coco17_tpu-8](http://download.tensorflow.org/models/object_detection/tf2/20200711/ssd_mobilenet_v2_fpnlite_640x640_coco17_tpu-8.tar.gz) pretrained model
 - While training we save the checkpoints and from that latest checkpoint we can detect and count chickoo fruits
 
 ## Preview of object detection and counting
