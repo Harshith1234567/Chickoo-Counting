@@ -1,4 +1,4 @@
-"# ChickooCount" 
+# Chickoo Counting using MobileNet
 
 [image dataset](https://drive.google.com/file/d/1HS0Xo2he28iFAKGdNGnMeDPNKQMkl_nC/view?usp=sharing)
 
