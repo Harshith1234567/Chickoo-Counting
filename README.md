@@ -6,7 +6,8 @@
 - While training we save the checkpoints and from that latest checkpoint we can detect and count chickoo fruits
 
 ## Preview of object detection and counting
-  ![image](https://github.com/Harshith1234567/ChickooCount/assets/53342028/a8e2832d-c89f-47a0-8200-e75330c3caaf)
+  ![image](https://github.com/Harshith1234567/ChickooCount/assets/53342028/687f841b-19ae-4f6e-8358-0fe9abf01f26)
+
 
 
 ## Important Data Regarding the project
